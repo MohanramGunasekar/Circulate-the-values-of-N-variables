@@ -6,14 +6,15 @@ PC
 Anaconda - Python 3.7
 ## Algorithm: 
 ### Step 1: 
+Define a function named circulate
 ### Step 2: 
+Get list from the user
 ### Step 3: 
 Get the value from the user for the number of rotation
 ### Step 4: 
 Using the slicing concept rotate the list
-
 ### Step 5: 
-### Step 6: 
+Finally print the result
 ## Program:
 ```#Program to Circulate n values
 #Developed by: MOHANRAM GUNASEKAR
@@ -31,4 +32,4 @@ def circulate():
 ![Screenshot 2024-04-15 183248](https://github.com/MohanramGunasekar/Circulate-the-values-of-N-variables/assets/139841812/12080efd-95a6-4588-be89-28ce8691b087)
 
 ## Result:
-The above program is executed and output verified
+Thus the list has been circulated with N values
